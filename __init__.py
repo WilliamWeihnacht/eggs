@@ -1,1 +1,1 @@
-import getBreakfast getEggs
+import getBreakfast, getEggs
